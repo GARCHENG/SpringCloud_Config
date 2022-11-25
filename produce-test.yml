@@ -7,4 +7,4 @@ eureka:
 spring:
   application:
     name: 'product-service'
-name: df-test
+name: GARCHENG
